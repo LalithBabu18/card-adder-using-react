@@ -31,7 +31,7 @@ export default class Cardrender extends Component {
                     <br></br>
                     <button className="button2" onClick={this.buttonHandle2}>Remove Card</button>
                     <br></br>
-                    <button className="button3" onClick="" >View Source</button>
+                    <button className="button3" onClick="https://github.com/LalithBabu18/card-adder-using-react/" >View Source</button>
                     <br></br>
                 </div>
                 <div className="card-render">
